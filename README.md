@@ -1,2 +1,2 @@
 # FreeCodeCamp
-The solutions of https://learn.freecodecamp.org/
+My solutions for https://learn.freecodecamp.org/
